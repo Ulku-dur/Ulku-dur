@@ -1,4 +1,3 @@
-# Hacer Ülkü Köker
 
 ## Junior Full Stack Developer
 
