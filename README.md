@@ -1,5 +1,5 @@
 
-## Junior Full Stack Developer
+## Full Stack Developer
 
 [![Email](https://img.shields.io/badge/Email-h.ulkudurmaz@gmail.com-red?style=flat-square&logo=gmail)](mailto:h.ulkudurmaz@gmail.com)
 
