@@ -1,7 +1,7 @@
 
 ## Full Stack Developer
 
-[![Email](https://img.shields.io/badge/Email-h.ulkudurmaz@gmail.com-red?style=flat-square&logo=gmail)](mailto:h.ulkudurmaz@gmail.com)
+
 
 ---
 
@@ -23,7 +23,7 @@ Hi! I'm Hacer Ülkü, a passionate Junior Full Stack Developer with a background
 
 - 🍳 Cooking
 - 🥾 Hiking
-- ⚽ Sports
+- 🏃🏻‍♀️‍➡️ Sports
 - 📚 Learning and Research
 
 ### 📫 Contact
