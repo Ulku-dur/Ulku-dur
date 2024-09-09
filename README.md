@@ -14,9 +14,9 @@ Hi! I'm Hacer Ülkü, a passionate Junior Full Stack Developer with a background
 ### 🛠 Skills
 
 - **Languages:** Java, JavaScript
-- **Frameworks:** Spring Boot, React.js
+- **Frameworks:** Spring Boot, React.js, Express.js, Node.js
 - **Web Technologies:** HTML, CSS, Tailwind CSS, Bootstrap
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Languages:** Professional working proficiency in English
 
 ### 🌱 Interests
