@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi! I'm Hacer Ülkü, a passionate Junior Full Stack Developer with a background in Biomedical Engineering. I have recently completed a Full Stack Web Developer Bootcamp, and I'm proficient in both frontend and backend technologies.
+Hi! I'm Ülkü, a passionate Junior Full Stack Developer with a background in Biomedical Engineering. I have recently completed a Full Stack Web Developer Bootcamp, and I'm proficient in both frontend and backend technologies.
 
 - **Full Stack Web Developer Bootcamp**
 
